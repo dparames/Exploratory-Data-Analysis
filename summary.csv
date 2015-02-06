@@ -1,0 +1,21 @@
+name,max,min,empty,unique
+Outcome Type,8291,3,136,0
+Estimated Age,7477,1361,7477,0
+Intake Date,128,2,0,0
+Outcome Subtype,4690,1,3479,4
+IntakeType,12277,14,0,0
+Zip Where Placed,9865,1,9865,154
+Color,5430,1,2,7
+Breed,15258,1,15258,440
+OutcomeYear,11471,8598,0,0
+AnimalType,9635,17,0,0
+Longitude,3787,1,1486,80
+Sex,8750,2831,0,0
+SpayNeuter,11193,8876,0,0
+OutcomeMonth,2338,770,0,0
+Zip Where Found,3787,1,1421,99
+IntakeYear,11885,8184,0,0
+Latitude,3809,1,1486,80
+OutcomeDate,114,1,0,1
+IntakeMonth,2324,750,0,0
+Size,6470,30,30,0
